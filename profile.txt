@@ -1,5 +1,2 @@
-Name: Khushi
-Course: BCA
-Semester: 3
-Subject: Version Controlling
-Learning Git Branching
+Profile Page
+User Profile Information
