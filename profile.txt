@@ -1,2 +1,2 @@
-Profile Page
-User Profile Information
+profile page
+user profile information
